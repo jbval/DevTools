@@ -1,0 +1,38 @@
+{
+    "breadcrumbs.enabled": true,
+    "editor.fontFamily":"Fira Code" ,
+    "editor.fontLigatures": true,
+    "prettier.singleQuote": true,
+    "vscode_custom_css.policy": true,
+    "vscode_custom_css.imports": [
+        "file://C:/..../customVsCode.css"
+    ],
+    "workbench.colorTheme": "Winter is Coming (Dark)",
+    "npm.enableScriptExplorer": false,
+    "emmet.includeLanguages": {
+        "razor": "html"
+    },
+    "editor.renderWhitespace": "none",
+    "editor.minimap.enabled": false,
+    "typescript.disableAutomaticTypeAcquisition": true,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "node_modules*/": true,
+        "Chrome_*/": true,
+        "PhantomJS_*/":true,
+        "bin/":true,
+        "obj/":true
+    },
+    "htmlhint.options": {
+        "doctype-first": false
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.suggest.localityBonus": true,
+    "workbench.editor.closeOnFileDelete": true,
+    "telemetry.enableTelemetry": false,
+    "prettier.printWidth": 160
+}
